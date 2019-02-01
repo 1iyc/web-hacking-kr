@@ -1,0 +1,3 @@
+-- SELECT posts.idx, displayName, title, content, DATE_FORMAT(create_date, "%y-%m-%d %H:%i") "create_date" FROM posts JOIN users ON posts.idx_user=users.idx WHERE 1 union select 1, 2, 3, TABLE_SCHEMA, TABLE_NAME FROM information_schema.TABLES -- LIKE;
+-- SELECT posts.idx, displayName, title, content, DATE_FORMAT(create_date, "%y-%m-%d %H:%i") "create_date" FROM posts JOIN users ON posts.idx_user=users.idx WHERE 1 union select 1, 2, 3, TABLE_SCHEMA, TABLE_NAME FROM information_schema.TABLES -- LIKE;
+SELECT * FROM information_schema.columns where table_name='users' and table_schema='my_db'
