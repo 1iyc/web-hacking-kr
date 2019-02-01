@@ -1,0 +1,7 @@
+Using b64encoder.py, encode 'admin' 20th.
+
+We don't need to replace number.
+
+PHP, anyway, replaces the numbers.
+
+Then, change cookie named 'user' and 'password' to encoded string.
