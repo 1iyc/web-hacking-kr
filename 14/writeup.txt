@@ -1,0 +1,5 @@
+Use web debugger.
+
+Put breakpoint at if to find condition number.
+
+After find out the number, type right number.
