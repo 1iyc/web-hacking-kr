@@ -1,0 +1,7 @@
+Read source.
+
+Go to uri in source.
+
+Read code...
+
+Guess about common id...
