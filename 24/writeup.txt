@@ -1,0 +1,11 @@
+Trying to fake request header....I used Fiddler
+
+X-Http-Forwarded-For...
+
+Fowarded: by...
+
+Cookie: PHPSESSID=xxx; REMOTE_ADDR=xxx works!!!
+
+Detour replace..
+
+REMOTE_ADDR=112277..00..00..1!!
