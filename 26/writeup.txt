@@ -1,0 +1,5 @@
+About URL Encode.
+
+a -> %61
+
+Making string using above then URL Encode that.
