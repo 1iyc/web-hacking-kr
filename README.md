@@ -12,3 +12,9 @@ Remark: /**/
 Bracket: ()
 Plus: +
 '''
+
+## Reference about Crypt
+```
+Best Crypto Tool: https://gchq.github.io/CyberChef/
+SHA1 Decrypter: https://www.hashkiller.co.uk/sha1-decrypter.aspx
+```
