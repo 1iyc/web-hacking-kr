@@ -13,8 +13,12 @@ Bracket: ()
 Plus: +
 ```
 
-## Reference about Crypt
-```
-Best Crypto Tool: https://gchq.github.io/CyberChef/
-SHA1 Decrypter: https://www.hashkiller.co.uk/sha1-decrypter.aspx
-```
+## Readings
+Best Crypto Tool
+https://gchq.github.io/CyberChef/
+
+SHA1 Decrypter
+https://www.hashkiller.co.uk/sha1-decrypter.aspx
+
+XSS Summary
+https://blog.rubiya.kr/index.php/2019/03/28/browsers-xss-filter-bypass-cheat-sheet/
