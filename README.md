@@ -11,6 +11,7 @@ Carrage Return(wr): %0d
 Remark: /**/
 Bracket: ()
 Plus: +
+Enter: %0d%0a
 ```
 
 ## Readings
